@@ -35,7 +35,7 @@ TV9 Bharatvarsh | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.c
 https://www.youtube.com/live/nSpwwcHVp80
 
 News18 Bangla | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png | 
-https://www.youtube.com/live/iAiziqQJ6k8
+https://www.youtube.com/live/NuDfu33kUv0
 
 R Bharat | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG | 
 https://www.youtube.com/live/qfrocHBy6RQ
