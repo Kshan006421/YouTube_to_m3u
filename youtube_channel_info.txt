@@ -29,7 +29,7 @@ India TV | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jump
 https://www.youtube.com/live/Xmm3Kr5P1Uw
 
 Calcutta News | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png | 
-https://www.youtube.com/live/-Uyfkmx0W-8
+https://www.youtube.com/live/xPYdklXxgbA
 
 TV9 Bharatvarsh | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png | 
 https://www.youtube.com/live/nSpwwcHVp80
@@ -38,7 +38,7 @@ News18 Bangla | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com
 https://www.youtube.com/live/ibfGBpK259g
 
 R Bharat | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG | 
-https://www.youtube.com/live/qfrocHBy6RQ
+https://www.youtube.com/live/o5t1rj83HxU
 
 Times Now Navbharat HD | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png |
 https://www.youtube.com/live/jQJHKXJEq0A
