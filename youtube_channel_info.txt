@@ -14,7 +14,7 @@ Zee 24 Ghanta | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com
 https://www.youtube.com/live/8aApFBmEJV0
 
 TV9 Bangla | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png | 
-https://www.youtube.com/live/0Bl1ur0D980
+https://www.youtube.com/live/tZOuV0pBcL8
 
 ABP Ananda | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-321-j5jl5g5k-v2/imageContent-321-j5jl5g5k-m2.png | 
 https://www.youtube.com/live/PKwLsAu-z10
@@ -29,7 +29,7 @@ India TV | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jump
 https://www.youtube.com/live/Xmm3Kr5P1Uw
 
 Calcutta News | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png | 
-https://www.youtube.com/live/Zzc5bEN2puI
+https://www.youtube.com/live/MWVz52TzI6U
 
 TV9 Bharatvarsh | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png | 
 https://www.youtube.com/live/nSpwwcHVp80
