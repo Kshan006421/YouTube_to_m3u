@@ -29,7 +29,7 @@ India TV | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jump
 https://www.youtube.com/live/Xmm3Kr5P1Uw
 
 Calcutta News | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png | 
-https://www.youtube.com/live/MWVz52TzI6U
+https://www.youtube.com/live/U8aP_jFz88A
 
 TV9 Bharatvarsh | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png | 
 https://www.youtube.com/live/nSpwwcHVp80
