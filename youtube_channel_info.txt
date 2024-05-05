@@ -14,7 +14,7 @@ Zee 24 Ghanta | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com
 https://www.youtube.com/live/8aApFBmEJV0
 
 TV9 Bangla | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png | 
-https://www.youtube.com/live/tZOuV0pBcL8
+https://www.youtube.com/live/F4nH4PeX_7w
 
 ABP Ananda | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-321-j5jl5g5k-v2/imageContent-321-j5jl5g5k-m2.png | 
 https://www.youtube.com/live/PKwLsAu-z10
@@ -29,16 +29,16 @@ India TV | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jump
 https://www.youtube.com/live/Xmm3Kr5P1Uw
 
 Calcutta News | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png | 
-https://www.youtube.com/live/U8aP_jFz88A
+https://www.youtube.com/live/lr01ijajlow
 
 TV9 Bharatvarsh | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png | 
 https://www.youtube.com/live/nSpwwcHVp80
 
 News18 Bangla | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png | 
-https://www.youtube.com/live/ibfGBpK259g
+https://www.youtube.com/live/6Ec7bnQVO44
 
 R Bharat | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG | 
-https://www.youtube.com/live/o5t1rj83HxU
+https://www.youtube.com/live/KVjPZ1YpaaU
 
 Times Now Navbharat HD | 24x7 News Channels | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png |
 https://www.youtube.com/live/jQJHKXJEq0A
