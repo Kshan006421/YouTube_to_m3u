@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png" tvg-id="", Republic Bangla
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737585704/ei/yB-RZ5fWKPLzsfIPu_PY6AM/ip/52.234.38.200/id/pivpyRNKZvo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PBm98vD6V9BtRzWVHeg9OqimbLS4LaV77zS2e0oPrV1m6c54KDpWTxAyC5o7h1vVx1MovwNU-g/spc/9kzgDfrcsoT7wkLaBuWKtyMSciSsOwSvvHh5jem9zzWs2AGBBfNqsJNnK5Q3dDQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOeZ-xcgTUDSOSim6FgeTRD1fh0_q08PMtMn0mVFYAeEAiBDPk9JfWrn0z81V7i-Wr5EPW86qwWcd9k4qWMLU_9wBw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png" tvg-id="", ABP News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
