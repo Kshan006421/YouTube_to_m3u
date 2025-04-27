@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8568-j7lnde80-v1/imageContent-8568-j7lnde80-m1.png" tvg-id="", India TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745789838/ei/Lk8OaOLlD9Cglu8PnKrZyQc/ip/172.183.54.70/id/Xmm3Kr5P1Uw.48/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaTPKs14VQceS2vcAP21lu1xGEz31QX2D4AdwUApLL9LGxqObGE4zfsmhkPUgDchywtxumuBb7m/spc/wk1kZsuX6W9a4Oi76N1o3TQUqj95Ugo4Mh4Ycwri9ppKpkMISGxfq01fXw134cM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOeaYnR26_qIQlrigTOR0yI7b3onAicGoEujc-A5S9vuAiB_tE5HUUI-W7oHnQEj42zHGl6RuHoJlKVoH1R9qWUOdw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png" tvg-id="", Calcutta News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
