@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" tvg-id="", AAJ TAK HD
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764796531/ei/E1QwacuGHd-5kucP5vb7wAs/ip/145.132.100.181/id/Nq2wYlWFucg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TaaaBo1MwRj36gG6wnwSQeI02b6j_5npSivNNeJTD7HTiqTaGQHUi0JngfaS-37R--1KSl1Gcs/spc/6b0G_ILialdFWmzRpzhheFmul5En8xNNZHo_2cpSBe582MLC6wTqxc1-0hldy66uGyA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEDuKGSBoQqnVh0MDz9F9eR0hoV_1TAwZU2wVp_yM2sMCIQCarF1_N2DJyUxvNbjT2rCP57Yx8vuRqIDTHtsW9yUXSw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png" tvg-id="", News18 India
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
