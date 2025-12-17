@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9031-j7u3nz6w-v1/imageContent-9031-j7u3nz6w-m1.png" tvg-id="", Zee 24 Ghanta
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765965902/ei/7itCaZ_PAZOklu8PkpSl-Qs/ip/172.184.219.80/id/8aApFBmEJV0.130/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3Dl4KUqbvqh98hhTmjOcN8gaPwNp9PFy_shPQagJ42IFGteEK3KYsOhSAut8wXLaGCrs50k2MMS/spc/wH4Qq_Wg90qbxgK4ANd19usuj24I7RUKMYoU6sMYZqA15XJzuQz-cSeAv8lZ46xEXBQ/vprv/1/go/1/ns/W5n_rHCCJ1uID6GlTFMGxqAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/FiOtu0oUjr996nvn1YM/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcu74s1JANS_UJ6KalXoyZAPgJ1kkvpVFJPGZl6IGCzECIDCfsmxfHOCKR3wi6OB84o4Mj0-YW-DNqdVY1wFS7uwk/file/index.m3u8
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png" tvg-id="", TV9 Bangla
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
