@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-321-j5jl5g5k-v2/imageContent-321-j5jl5g5k-m2.png" tvg-id="", ABP Ananda
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771279452/ei/_D-TaamGLdKlir4P3dvdiAk/ip/64.236.169.118/id/PKwLsAu-z10.319/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-xTREkgWj3g_NgLsIIRiRZ8nPn4_ZBRz5Q8SAlOiLRofVOySnXi4TsEh4kwzgXWNfoPr4SmvelL/spc/6dlaFFP1lLtjtiEEFZxNeO4PaG6WnpD6FyhXoXFtGsEyqHiVujKzC98py4C09R8nS4Swyg/vprv/1/go/1/ns/l0wYJkOq9ThT1hR7lWORBLcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565681%2C51580968%2C51772949/dover/11/n/t74rBOrvt8sRSXeZe/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAJrEHJLIZ-rIFwStFv570zUdGk9ssKNYcYo2Ijb9AfeoAiEAzMKYsX-DzUmkvo9A78maWSMYGLZ8LN8O4RHYEGcSvjY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="24X7 News Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png" tvg-id="", Republic Bangla
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
